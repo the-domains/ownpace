@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5501792
 color:
   saturation: 0.3354036
   brandStrength: 1
-  rhythmicContrast: 0.6512893
+  lightness: 0.5681003
   brandColors:
     - '#FC770D'
     - '#2A2852'
     - '#7F2704'
     - '#E1F137'
     - '#9A876F'
-  lightness: 0.4509587
+  rhythmicContrast: 0.4354839
+typography_spectrum: 0.5501792
 layout_spectrum: 0.1899642
 name: OWNPACE
