@@ -1,0 +1,14 @@
+layout_spectrum: 0.7473118
+color:
+  saturation: 0.3354036
+  lightness: 0.4509587
+  brandStrength: 1
+  brandColors:
+    - '#FC770D'
+    - '#2A2852'
+    - '#7F2704'
+    - '#E1F137'
+    - '#9A876F'
+  rhythmicContrast: 0.6512893
+typography_spectrum: 0.5501792
+name: OWNPACE
